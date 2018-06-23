@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "枚举", "枚举\枚举.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "结构", "结构\结构.csproj", "{84EDA182-A9E0-4DA5-8DCE-D99B1BD74667}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "数组", "数组\数组.csproj", "{2CDE89FC-5DC1-48D1-89C3-5405B0937EF2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{84EDA182-A9E0-4DA5-8DCE-D99B1BD74667}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84EDA182-A9E0-4DA5-8DCE-D99B1BD74667}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84EDA182-A9E0-4DA5-8DCE-D99B1BD74667}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CDE89FC-5DC1-48D1-89C3-5405B0937EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CDE89FC-5DC1-48D1-89C3-5405B0937EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CDE89FC-5DC1-48D1-89C3-5405B0937EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CDE89FC-5DC1-48D1-89C3-5405B0937EF2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
